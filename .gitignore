@@ -1,0 +1,6 @@
+echo "*.pdf"
+echo "*.rtf"
+echo "*.jpg"
+echo "*.jpeg"
+echo "*.png"
+echo "*.gif"
