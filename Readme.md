@@ -6,6 +6,6 @@ We have been practicing also with local links, wich are triggered using `<a href
 
 There are some interesting points wich are discovered through practice. That is, for example, some image attributes are required but not necessarily with a value on them.
 
- That is the case of `alt=""`, wich as we were told, eventually should contain picture description. It is also interesting that we can maintain picture proportions only changing one of its resolutions values, instead of the two. That means we should use `width=""` or `height=""`
+ That is the case of `alt=""`, wich as we were told, eventually should contain picture description. It is also interesting that we can maintain picture proportions only changing one of its resolution values, instead of two. That means we should use `width=""` or `height=""`
 
  I am not including images on this repos, because I am interested in use these files as little reminders of what I have learn in each exercise.
