@@ -1,4 +1,6 @@
 # My first `web Developement` repo.
+
+First of all, I would like to share a link to the GitHub [web](https://ehdinayan.github.io/E01-format/) of this repo, so it would be easier to read.</p>
 **Here** I have first front-end practices,
 such as introcuding a few **XHTML** labels like `<p>, <br/>, <a>, <img>` and a few of its attributes like `href` for links or `src` for images.
 
@@ -8,4 +10,4 @@ There are some interesting points wich are discovered through practice. That is,
 
  That is the case of `alt=""`, wich as we were told, eventually should contain picture description. It is also interesting that we can maintain picture proportions only changing one of its resolution values, instead of two. That means we should use `width=""` or `height=""`
 
- I am not including images on this repos, because I am interested in use these files as little reminders of what I have learn in each exercise.
+ I am not including images on this repos, because I am interested in use these files as little reminders of what I have learned in each exercise.
