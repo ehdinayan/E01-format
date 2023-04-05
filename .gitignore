@@ -1,7 +1,4 @@
-echo "*.pdf"
-echo "*.rtf"
-echo "*.jpg"
-echo "*.jpeg"
-echo "*.png"
-echo "*.gif"
-echo "*.rtf"
+*.pdf
+*.rtf
+*.html
+*.doc
